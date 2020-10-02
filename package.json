@@ -1,0 +1,31 @@
+{
+  "name": "fcktoberfest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hacktoberfest spam PR slayer for your open source project. Free swag hunter can just fck off!",
+  "author": "Wisnu Adi Nurcahyo <wisn.adn@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/wisn/fcktoberfest.git",
+  "homepage": "https://github.com/wisn/fcktoberfest",
+  "bugs": "https://github.com/wisn/fcktoberfest/issues",
+  "keywords": [
+    "probot",
+    "github",
+    "probot-app"
+  ],
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "probot": "^10.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0",
+    "nock": "^13.0.4",
+    "smee-client": "^1.1.0"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  }
+}
