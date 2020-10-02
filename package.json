@@ -4,7 +4,7 @@
   "private": true,
   "description": "Hacktoberfest spam PR slayer for your open source project. Free swag hunter can just fck off!",
   "author": "Wisnu Adi Nurcahyo <wisn.adn@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": "https://github.com/wisn/fcktoberfest.git",
   "homepage": "https://github.com/wisn/fcktoberfest",
   "bugs": "https://github.com/wisn/fcktoberfest/issues",
